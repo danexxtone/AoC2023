@@ -63,6 +63,7 @@
                 }
             }
             Console.WriteLine(sum);
+            
             //part 2
             lines = File.ReadAllLines(@"c:\Users\danex\Documents\AoC2023\input2.txt");
             sum = 0;
