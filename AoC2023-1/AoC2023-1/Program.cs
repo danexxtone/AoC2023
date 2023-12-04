@@ -3,4 +3,5 @@ using AoC2023_1;
 
 //DayOne.Execute();
 //DayTwo.Execute();
-DayThree.Execute();
+//DayThree.Execute();
+DayFour.Execute();
